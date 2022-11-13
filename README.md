@@ -61,11 +61,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## To Run This Project
 
-- make file .env like this file .env.example
-- composer i
--php artisan maigrate
--php artisan db::seed
--php artisan ser
+- **[make file .env like this file .env.example]**
+- **[composer i]**
+- **[php artisan maigrate]**
+- **[ php artisan db::seed]**
+- **[ php artisan ser]**
 
 ## License
 
